@@ -22,3 +22,12 @@
 4. https://leetcode.com/problems/zigzag-conversion/description/
 
 5. https://leetcode.com/problems/text-justification/description/
+
+6. https://leetcode.com/problems/reverse-words-in-a-string/submissions/2001220718/
+
+7. https://leetcode.com/problems/minimum-window-substring/submissions/2001128736/
+
+8. https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/
+
+# DFS + BFS
+
