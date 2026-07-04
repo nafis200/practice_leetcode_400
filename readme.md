@@ -31,3 +31,6 @@
 
 # DFS + BFS
 
+1. https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+
+2. https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/2056187689/
