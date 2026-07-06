@@ -34,3 +34,19 @@
 1. https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 
 2. https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/2056187689/
+
+3. https://leetcode.com/problems/shortest-path-in-binary-matrix/submissions/2056267571/
+
+4. https://leetcode.com/problems/shortest-bridge/description/
+
+5. https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/submissions/2056892380/
+
+6. https://leetcode.com/problems/snakes-and-ladders/description/
+
+7. https://leetcode.com/problems/evaluate-division/description/
+
+8. https://leetcode.com/problems/perfect-squares/description/
+
+9. https://leetcode.com/problems/open-the-lock/description/
+
+10. https://neetcode.io/problems/valid-tree/question
