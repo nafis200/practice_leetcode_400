@@ -50,3 +50,7 @@
 9. https://leetcode.com/problems/open-the-lock/description/
 
 10. https://neetcode.io/problems/valid-tree/question
+
+11. https://leetcode.com/problems/reconstruct-itinerary/
+
+12. https://leetcode.com/problems/swim-in-rising-water/description/
