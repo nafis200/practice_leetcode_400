@@ -14,7 +14,7 @@ int maxProduct(vector<int>& nums) {
 
         mx = max(nums[i], mx * nums[i]);
         mn = min(nums[i],mn * nums[i]);
-
+        cout << mx << " " << mn << "\n";
         ans = max(ans, mx);
     }
     return ans;

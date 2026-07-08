@@ -58,3 +58,7 @@
 # Dynamic Programming
 
 1. https://leetcode.com/problems/maximum-product-subarray/description/
+
+2. https://leetcode.com/problems/jump-game-ii/description/
+
+3. https://leetcode.com/problems/word-break/description/
