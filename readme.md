@@ -68,3 +68,9 @@
 5. https://leetcode.com/problems/burst-balloons/
 
 6. https://leetcode.com/problems/wildcard-matching/description/
+
+7. https://leetcode.com/problems/longest-palindromic-substring/description/
+
+8. https://leetcode.com/problems/combination-sum-iv/description/
+
+# main difference combination sum two parts one unique two all total
