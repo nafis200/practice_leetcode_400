@@ -76,3 +76,17 @@
 # main difference combination sum two parts one unique two all total
 
 9. https://leetcode.com/problems/interleaving-string/description/
+
+10. https://leetcode.com/problems/triangle/description/
+
+11. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+
+12. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+
+13. https://leetcode.com/problems/house-robber-ii/description/
+
+14. https://leetcode.com/problems/maximal-square/
+
+15. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+
+16. https://leetcode.com/problems/palindromic-substrings/description/
