@@ -92,3 +92,5 @@
 16. https://leetcode.com/problems/palindromic-substrings/description/
 
 17. https://leetcode.com/problems/distinct-subsequences/
+
+18. https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/2063344092/
