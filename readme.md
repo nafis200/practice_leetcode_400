@@ -102,3 +102,9 @@
 2. https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
 
 (implement queue)
+
+3. https://leetcode.com/problems/balanced-binary-tree/description/
+
+(balanced binary tree defination)
+
+4. https://leetcode.com/problems/diameter-of-binary-tree/description/
