@@ -94,3 +94,11 @@
 17. https://leetcode.com/problems/distinct-subsequences/
 
 18. https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/2063344092/
+
+# Binary Tree
+
+1. https://leetcode.com/problems/symmetric-tree/description/
+
+2. https://leetcode.com/problems/minimum-depth-of-binary-tree/description/
+
+(implement queue)
