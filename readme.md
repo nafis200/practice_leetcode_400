@@ -108,3 +108,5 @@
 (balanced binary tree defination)
 
 4. https://leetcode.com/problems/diameter-of-binary-tree/description/
+
+5. https://leetcode.com/problems/merge-two-binary-trees/description/
