@@ -120,3 +120,5 @@
 9. https://leetcode.com/problems/validate-binary-search-tree/description/
 
 10. https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
+11. https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
