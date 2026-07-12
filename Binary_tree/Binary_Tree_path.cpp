@@ -1,0 +1,77 @@
+
+#include <bits/stdc++.h>
+using namespace std;
+class TreeNode {
+ public:
+  int val;
+  TreeNode* left;
+  TreeNode* right;
+  TreeNode(int x) {
+    val = x;
+    left = NULL;
+    right = NULL;
+  }
+};
+
+TreeNode* BuildTree(vector<int>& arr) {
+  if (arr.empty()) {
+    return NULL;
+  }
+
+  TreeNode* root = new TreeNode(arr[0]);
+
+  queue<TreeNode*> q;
+  q.push(root);
+  int i = 1;
+  while (!q.empty()) {
+    TreeNode* cur = q.front();
+    q.pop();
+    if (i < arr.size() && arr[i] != -1) {
+      cur->left = new TreeNode(arr[i]);
+      q.push(cur->left);
+    }
+    i++;
+    if (i < arr.size() && arr[i] != -1) {
+      cur->right = new TreeNode(arr[i]);
+      q.push(cur->right);
+    }
+    i++;
+  }
+  return root;
+}
+
+vector<string>ans;
+
+void path(TreeNode* root, string s){
+     if(root == NULL){
+        return;
+     }
+     if(root->left == NULL && root->right == NULL){
+        s += to_string(root->val);
+         ans.push_back(s);
+         return;
+     }
+     s += to_string(root->val);
+     s += "->";
+     path(root->left, s);
+     path(root->right, s);
+     
+}
+
+vector<string> binaryTreePaths(TreeNode* root) {
+      path(root, "");
+      return ans;
+ }
+
+int32_t main() {
+  ios_base::sync_with_stdio(0);
+  cin.tie(0);
+  cout.tie(0);
+  vector<int>nums = {1,2,3,-1,5};
+  TreeNode* root = BuildTree(nums);
+  vector<string>ans1 = binaryTreePaths(root);
+
+  for(auto i : ans1){
+    cout << i << "\n";
+  }
+}

@@ -122,3 +122,5 @@
 10. https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 11. https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
+
+12. https://leetcode.com/problems/sum-of-left-leaves/description/
