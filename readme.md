@@ -116,3 +116,5 @@
 7. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
 
 8. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+
+9. https://leetcode.com/problems/validate-binary-search-tree/description/
