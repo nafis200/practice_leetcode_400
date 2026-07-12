@@ -110,3 +110,9 @@
 4. https://leetcode.com/problems/diameter-of-binary-tree/description/
 
 5. https://leetcode.com/problems/merge-two-binary-trees/description/
+
+6. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/
+
+7. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
+
+8. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
