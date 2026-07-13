@@ -136,3 +136,7 @@
 17. https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 
 18. https://algo.monster/liteproblems/314
+
+19. https://leetcode.com/problems/clone-graph/description/
+
+20. https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
