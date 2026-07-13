@@ -124,3 +124,7 @@
 11. https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/
 
 12. https://leetcode.com/problems/sum-of-left-leaves/description/
+
+13. https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
+
+14. https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/
