@@ -132,3 +132,7 @@
 15. https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
 
 16. https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
+
+17. https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+
+18. https://algo.monster/liteproblems/314
