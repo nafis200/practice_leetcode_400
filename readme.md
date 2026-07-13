@@ -128,3 +128,7 @@
 13. https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
 
 14. https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/
+
+15. https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
+
+16. https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
