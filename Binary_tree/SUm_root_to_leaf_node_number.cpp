@@ -48,46 +48,39 @@ void preorder(TreeNode* root) {
   preorder(root->right);
 }
 
-class BSTIterator {
-public:
-stack<TreeNode*>st;
-void PushLeft(TreeNode* root){
-    while(root != NULL){
-       st.push(root);
-       root = root->left;
+
+int SumOfLeavesNode(TreeNode* root, int sum){
+    if(root == NULL){
+        return 0;
     }
-}
-
-BSTIterator(TreeNode* root) {
-    PushLeft(root);
-}
-
-int next() {
-    int x = 0;
-    if(hasNext()){
-        auto s = st.top();
-        st.pop();
-        if(s->right){
-           PushLeft(s->right);
-        }
-        x = s->val;
+    if(root->left == NULL && root->right == NULL){
+        sum = sum * 10 + root->val;
+        return sum;
     }
-    return x;
+
+    int left = SumOfLeavesNode(root->left, sum * 10 + root->val);
+    
+    int right = SumOfLeavesNode(root->right, sum * 10 + root->val);
+
+    return left + right;
 }
 
 
-bool hasNext() {
-   return !st.empty();
+int sumNumbers(TreeNode* root) {
+    if(root == NULL){
+        return 0;
+    }
+    return SumOfLeavesNode(root, 0);
 }
-};
 
 
 int32_t main() {
   ios_base::sync_with_stdio(0);
   cin.tie(0);
   cout.tie(0);
-  vector<int> nums = {4, 2, 7, 1, 3, 6, 9};
+  vector<int> nums = {0, 1};
 
   TreeNode* root = BuildTree(nums);
+  cout << sumNumbers(root) << "\n";
   
 }

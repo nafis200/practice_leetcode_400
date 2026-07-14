@@ -48,39 +48,6 @@ void preorder(TreeNode* root) {
   preorder(root->right);
 }
 
-class BSTIterator {
-public:
-stack<TreeNode*>st;
-void PushLeft(TreeNode* root){
-    while(root != NULL){
-       st.push(root);
-       root = root->left;
-    }
-}
-
-BSTIterator(TreeNode* root) {
-    PushLeft(root);
-}
-
-int next() {
-    int x = 0;
-    if(hasNext()){
-        auto s = st.top();
-        st.pop();
-        if(s->right){
-           PushLeft(s->right);
-        }
-        x = s->val;
-    }
-    return x;
-}
-
-
-bool hasNext() {
-   return !st.empty();
-}
-};
-
 
 int32_t main() {
   ios_base::sync_with_stdio(0);
