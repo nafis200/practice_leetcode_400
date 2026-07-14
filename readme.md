@@ -142,3 +142,5 @@
 20. https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 
 21. https://leetcode.com/problems/binary-search-tree-iterator/description/
+
+22. https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
