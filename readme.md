@@ -148,3 +148,7 @@
 23. https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
 
 24.https://www.lintcode.com/problem/448/ 
+
+<!-- Linked List -->
+
+1. https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
