@@ -146,3 +146,5 @@
 22. https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 
 23. https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+
+24.https://www.lintcode.com/problem/448/ 
