@@ -152,3 +152,8 @@
 <!-- Linked List -->
 
 1. https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+
+2. https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+
+
+3. https://leetcode.com/problems/remove-linked-list-elements/description/?envType=problem-list-v2&envId=linked-list
