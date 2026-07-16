@@ -162,3 +162,7 @@
 (one pass)
 
 5. https://leetcode.com/problems/reorder-list/
+
+6. https://leetcode.com/problems/copy-list-with-random-pointer/description/
+
+7. https://leetcode.com/problems/delete-node-in-a-linked-list/description/
