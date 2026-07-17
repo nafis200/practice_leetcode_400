@@ -1,5 +1,3 @@
-// Google (4) — Microsoft (2) — Amazon (2)
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -41,31 +39,28 @@ void Print(ListNode* head) {
   cout << '\n';
 }
 
-ListNode* removeElements(ListNode* head, int val) {
-  if (head == NULL) {
-    return NULL;
-  }
-  while (head != NULL && head->val == val) {
-    ListNode* del = head;
-    head = head->next;
-    delete del;
-  }
-  ListNode* temp = head;
-  while (temp != NULL && temp->next != NULL) {
-    if (temp->next->val == val) {
-      ListNode* del = temp->next;
-      temp->next = temp->next->next;
+ListNode* deleteMiddle(ListNode* head) {
+    if(head == NULL || head->next == NULL){
+        return NULL;
+    }
+    ListNode* slow = head;
+    ListNode* fast = head;
+    ListNode* prev = NULL;
 
-      delete del;
-    }
-    else{
-        temp = temp->next;
-    }
-  }
-  return head;
+
+    while(fast != NULL && fast->next != NULL){
+         prev = slow;
+         slow = slow->next;
+         fast = fast->next->next;
+    } 
+    prev->next = slow->next;
+    return head;
 }
 
-int main() { return 0; }
 
 
- 
+int main() {
+   vector<int>nums = {1, 2, 3, 4};
+   ListNode* head = CreateNode(nums);
+   head = deleteMiddle(head);   
+}

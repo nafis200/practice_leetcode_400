@@ -1,5 +1,3 @@
-// Google (4) — Microsoft (2) — Amazon (2)
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -41,31 +39,21 @@ void Print(ListNode* head) {
   cout << '\n';
 }
 
-ListNode* removeElements(ListNode* head, int val) {
-  if (head == NULL) {
-    return NULL;
-  }
-  while (head != NULL && head->val == val) {
-    ListNode* del = head;
-    head = head->next;
-    delete del;
-  }
-  ListNode* temp = head;
-  while (temp != NULL && temp->next != NULL) {
-    if (temp->next->val == val) {
-      ListNode* del = temp->next;
-      temp->next = temp->next->next;
 
-      delete del;
+int getDecimalValue(ListNode* head) {
+    int ans = 0;
+    while(head){
+        ans = ans * 2 + head->val;
+        head = head->next;
     }
-    else{
-        temp = temp->next;
-    }
-  }
-  return head;
+    return ans;
 }
 
-int main() { return 0; }
 
 
- 
+int main() {
+   vector<int>nums = {1, 0, 1};
+   ListNode* head = CreateNode(nums);
+   cout << getDecimalValue(head) << "\n";
+   
+}

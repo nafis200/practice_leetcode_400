@@ -41,31 +41,52 @@ void Print(ListNode* head) {
   cout << '\n';
 }
 
-ListNode* removeElements(ListNode* head, int val) {
-  if (head == NULL) {
-    return NULL;
-  }
-  while (head != NULL && head->val == val) {
-    ListNode* del = head;
-    head = head->next;
-    delete del;
-  }
-  ListNode* temp = head;
-  while (temp != NULL && temp->next != NULL) {
-    if (temp->next->val == val) {
-      ListNode* del = temp->next;
-      temp->next = temp->next->next;
+//  1 2 3 4 5
 
-      delete del;
-    }
-    else{
+// 1 < 2
+// 1  < 4
+
+
+
+//  5 - 2 + 1
+
+//  5 - 1 + 1
+//  5 - 3 + 3
+//  5 - 4 + 1
+
+
+ListNode* swapNodes(ListNode* head, int k) {
+ 
+    int n = 0;
+    ListNode* temp = head;
+    while(temp != NULL){
+        n++;
         temp = temp->next;
     }
-  }
-  return head;
+    
+    int cnt = n - k + 1;
+
+    ListNode* first = head;
+    ListNode* second = head;
+    for(int i = 1; i < k; i++){
+         first = first->next;
+    }
+
+    for(int i = 1; i < cnt; i++){
+         second = second->next;
+    }
+    swap(first->val, second->val);
+    return head;
+
 }
-
-int main() { return 0; }
-
-
  
+
+
+int main() {
+  vector<int>nums = {1,2,3,4,5};
+  int k = 2;
+  ListNode* head = CreateNode(nums);
+  head = swapNodes(head, k);
+  Print(head);
+  return 0;
+}

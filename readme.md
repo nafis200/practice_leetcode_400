@@ -166,3 +166,11 @@
 6. https://leetcode.com/problems/copy-list-with-random-pointer/description/
 
 7. https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+
+8. https://leetcode.com/problems/sort-list/
+
+9. https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/submissions/2070269819/
+
+10. https://leetcode.com/problems/partition-list/
+
+11. https://leetcode.com/problems/reverse-linked-list-ii/
