@@ -174,3 +174,12 @@
 10. https://leetcode.com/problems/partition-list/
 
 11. https://leetcode.com/problems/reverse-linked-list-ii/
+
+
+# Two pointers
+
+1. https://leetcode.com/problems/move-zeroes/description/
+
+2. https://leetcode.com/problems/valid-palindrome-ii/
+
+3. https://leetcode.com/problems/backspace-string-compare/description/
