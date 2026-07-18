@@ -189,3 +189,7 @@
 5. https://leetcode.com/problems/3sum/submissions/2071568415/
 
 6. https://leetcode.com/problems/next-permutation/description/
+
+7. https://leetcode.com/problems/sort-colors/description/
+
+8. https://leetcode.com/problems/trapping-rain-water/description/
