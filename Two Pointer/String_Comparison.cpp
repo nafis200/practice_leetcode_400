@@ -10,6 +10,17 @@ using namespace std;
 // a2 b4c3
 
 //  bbbbb#
+
+// 1 1
+// 2 2
+// 3 3
+// 4 4
+// 5 5
+// 6 9
+// 7 7
+// 8 8
+// 9 6
+
 int compress(vector<char>& chars) {
   int i = 0, j = 0, k = 0;
   for (j; j <= chars.size(); j++) {

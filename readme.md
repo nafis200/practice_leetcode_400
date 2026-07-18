@@ -195,3 +195,7 @@
 8. https://leetcode.com/problems/trapping-rain-water/description/
 
 9. https://leetcode.com/problems/string-compression/description/
+
+10. https://leetcode.ca/all/246.html
+
+11. https://neetcode.io/problems/valid-word-abbreviation/question
