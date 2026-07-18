@@ -193,3 +193,5 @@
 7. https://leetcode.com/problems/sort-colors/description/
 
 8. https://leetcode.com/problems/trapping-rain-water/description/
+
+9. https://leetcode.com/problems/string-compression/description/
