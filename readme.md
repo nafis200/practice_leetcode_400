@@ -187,3 +187,5 @@
 4. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 
 5. https://leetcode.com/problems/3sum/submissions/2071568415/
+
+6. https://leetcode.com/problems/next-permutation/description/
