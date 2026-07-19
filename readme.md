@@ -201,3 +201,13 @@
 11. https://neetcode.io/problems/valid-word-abbreviation/question
 
 12. https://leetcode.com/problems/combination-sum-ii/description/
+
+ 
+# stack
+
+string s1 = "";
+s1.push_back(s[i]);
+
+1. https://leetcode.com/problems/decode-string/description/
+
+2. https://leetcode.com/problems/basic-calculator-ii/description/
