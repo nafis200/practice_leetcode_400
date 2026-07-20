@@ -221,3 +221,11 @@ s1.push_back(s[i]);
 6. https://leetcode.com/problems/min-stack/
 
 7. https://leetcode.com/problems/asteroid-collision/description/
+
+8. https://leetcode.com/problems/basic-calculator/description/
+
+9. https://leetcode.com/problems/valid-parenthesis-string/description/
+
+10. https://leetcode.com/problems/car-fleet/description/
+
+11. https://leetcode.com/problems/maximum-frequency-stack/description/
