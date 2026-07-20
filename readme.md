@@ -215,3 +215,7 @@ s1.push_back(s[i]);
 3. https://leetcode.com/problems/make-the-string-great/description/
 
 4. https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/
+
+5. https://leetcode.com/problems/simplify-path/description/
+
+6. https://leetcode.com/problems/min-stack/
