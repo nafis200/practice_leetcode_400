@@ -219,3 +219,5 @@ s1.push_back(s[i]);
 5. https://leetcode.com/problems/simplify-path/description/
 
 6. https://leetcode.com/problems/min-stack/
+
+7. https://leetcode.com/problems/asteroid-collision/description/
