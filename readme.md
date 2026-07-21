@@ -231,3 +231,8 @@ s1.push_back(s[i]);
 11. https://leetcode.com/problems/maximum-frequency-stack/description/
 
 12. https://leetcode.com/problems/remove-duplicate-letters/description/
+
+
+# Binary Search
+
+1. https://leetcode.com/problems/kth-missing-positive-number/description/
