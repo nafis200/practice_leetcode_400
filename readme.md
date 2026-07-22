@@ -236,3 +236,5 @@ s1.push_back(s[i]);
 # Binary Search
 
 1. https://leetcode.com/problems/kth-missing-positive-number/description/
+
+2. https://leetcode.com/problems/search-in-rotated-sorted-array/description/
