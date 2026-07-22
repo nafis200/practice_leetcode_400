@@ -242,3 +242,7 @@ s1.push_back(s[i]);
 3. https://leetcode.com/problems/find-peak-element/description/
 
 4. https://leetcode.com/problems/median-of-two-sorted-arrays/
+
+5. https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/
+
+6. https://leetcode.com/problems/insert-interval/
