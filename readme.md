@@ -246,3 +246,9 @@ s1.push_back(s[i]);
 5. https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/
 
 6. https://leetcode.com/problems/insert-interval/
+
+7. https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
+
+8. https://leetcode.com/problems/search-a-2d-matrix/description/
+
+9. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
