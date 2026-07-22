@@ -238,3 +238,7 @@ s1.push_back(s[i]);
 1. https://leetcode.com/problems/kth-missing-positive-number/description/
 
 2. https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
+3. https://leetcode.com/problems/find-peak-element/description/
+
+4. https://leetcode.com/problems/median-of-two-sorted-arrays/
