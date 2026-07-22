@@ -252,3 +252,9 @@ s1.push_back(s[i]);
 8. https://leetcode.com/problems/search-a-2d-matrix/description/
 
 9. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+
+10. https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
+
+11. https://leetcode.com/problems/single-element-in-a-sorted-array/description/
+
+12. https://leetcode.com/problems/find-k-closest-elements/description/
