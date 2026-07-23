@@ -264,3 +264,8 @@ s1.push_back(s[i]);
 14. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/2078231831/
 
 15. https://leetcode.com/problems/random-pick-with-weight/description/
+
+
+# STL
+
+1. https://leetcode.com/problems/isomorphic-strings/description/
