@@ -21,7 +21,12 @@ using namespace std;
      return ans;
  }
 
-//   1 1 2 3 4 5
+//   1 2 3 4 5
+
+//  1 
+//        5 
+
+// x - 1    <    5 - x
 
 // x = 5
 // k = 4

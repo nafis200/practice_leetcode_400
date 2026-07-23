@@ -258,3 +258,9 @@ s1.push_back(s[i]);
 11. https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 
 12. https://leetcode.com/problems/find-k-closest-elements/description/
+
+13. https://leetcode.com/problems/time-based-key-value-store/
+
+14. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/2078231831/
+
+15. https://leetcode.com/problems/random-pick-with-weight/description/
