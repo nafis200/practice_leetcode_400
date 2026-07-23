@@ -269,3 +269,7 @@ s1.push_back(s[i]);
 # STL
 
 1. https://leetcode.com/problems/isomorphic-strings/description/
+
+2. https://leetcode.com/problems/word-pattern/description/
+
+3. https://leetcode.com/problems/kth-largest-element-in-a-stream/
