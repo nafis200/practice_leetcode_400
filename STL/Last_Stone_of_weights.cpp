@@ -29,3 +29,6 @@ int32_t main() {
 
   cout << lastStoneWeight(stones) << "\n";
 }
+
+
+//  1 2 3 4 5 6 7 8
