@@ -275,3 +275,7 @@ s1.push_back(s[i]);
 3. https://leetcode.com/problems/kth-largest-element-in-a-stream/
 
 4. https://leetcode.com/problems/find-median-from-data-stream/description/
+
+5. https://leetcode.com/problems/minimum-number-of-refueling-stops/description/
+
+6. https://leetcode.com/problems/maximum-subsequence-score/description/
